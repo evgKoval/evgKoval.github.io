@@ -1,0 +1,289 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.header {
+	font-size: 18px;
+	background-color: #000;
+	color: #fff;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+}
+
+.main {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	-moz-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	-o-flex-wrap: wrap;
+	flex-wrap: wrap;
+}
+
+.d-flex {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
+
+a {
+	font-weight: 700;
+	text-decoration: none;
+	font-size: 24px;
+	display: inline-block;
+	padding: 18px 30px;
+	background-color: #000;
+	border-radius: 24px;
+	color: #fff;
+}
+
+.disabled {
+	filter: grayscale(100%);
+    opacity: 0.5;
+    pointer-events: none;
+    cursor: not-allowed;
+}
+
+.lb {
+	/*border: 1px solid red;*/
+	position: relative;
+	
+}
+
+.lb span, .lb a, .lb strong {
+	position: absolute;
+}
+
+.lb span {
+	font-weight: 700;
+	border: 1px solid #000;
+	padding: 9px 15px;
+}
+
+.lb-1 {
+	height: calc(100vh - 62px);
+	background: #000 url(../img/lb1.jpg) right no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.lb-1 span {
+	top: 15px;
+	left: 15px;
+}
+
+.lb-2 span {
+	color: #fff;
+	border-color: #fff;
+	top: 15px;
+	left: 15px;
+}
+
+.lb-3 span {
+	color: #000;
+	border-color: #000;
+	top: 15px;
+	left: 15px;
+}
+
+.lb-4 span {
+	color: #000;
+	border-color: #000;
+	top: 15px;
+	left: 15px;
+}
+
+.lb-5 span {
+	color: #fff;
+	border-color: #fff;
+	top: 15px;
+	left: 15px;
+}
+
+.lb-6 span {
+	color: #000;
+	border-color: #000;
+	top: 15px;
+	left: 15px;
+}
+
+.lb-7 span {
+	color: #fff;
+	border-color: #fff;
+	top: 15px;
+	left: 15px;
+}
+
+.lb-1 strong {
+	font-size: 42px;
+	line-height: 1.4;
+	color: #000;
+	bottom: 15px;
+	left: 15px;
+}
+
+.lb-2 strong {
+	font-size: 26px;
+	line-height: 1.4;
+	color: #fff;
+	bottom: 15px;
+	left: 15px;
+}
+
+.lb-3 strong {
+	font-size: 26px;
+	padding-right: 90px;
+	line-height: 1.4;
+	color: #000;
+	bottom: 15px;
+	left: 15px;
+}
+
+.lb-4 strong {
+	font-size: 34px;
+	padding-right: 90px;
+	line-height: 1.4;
+	color: #000;
+	bottom: 15px;
+	left: 15px;
+}
+
+.lb-5 strong {
+	font-size: 22px;
+	line-height: 1.4;
+	color: #fff;
+	bottom: 15px;
+	left: 15px;
+}
+
+.lb-6 strong {
+	font-size: 22px;
+	line-height: 1.4;
+	color: #000;
+	bottom: 15px;
+	left: 15px;
+}
+
+.lb-7 strong {
+	font-size: 22px;
+	line-height: 1.4;
+	color: #fff;
+	bottom: 15px;
+	left: 15px;
+}
+
+.lb-1 a {
+	bottom: 199.6px;
+	left: 15px;
+}
+
+.lb-2 a {
+	bottom: 66px;
+	left: 15px;
+}
+
+.lb-3 a {
+	font-size: 20px;
+	padding: 15px 24px;
+	bottom: 96px;
+	left: 15px;
+}
+
+.lb-4 a {
+	font-size: 20px;
+	padding: 15px 24px;
+	bottom: 66px;
+	left: 15px;
+}
+
+.lb-5 a {
+	font-size: 18px;
+	padding: 12px 18px;
+	bottom: 56px;
+	left: 15px;
+}
+
+.lb-6 a {
+	font-size: 18px;
+	padding: 12px 18px;
+	bottom: 56px;
+	left: 15px;
+}
+
+.lb-7 a {
+	font-size: 18px;
+	padding: 12px 18px;
+	bottom: 56px;
+	left: 15px;
+}
+
+.lb-2 {
+	height: calc(100% / 3);
+	background: #000 url(../img/lb2.jpg) center right no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.lb-3 {
+	width: 50%;
+	background: #000 url(../img/lb3.jpg) center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.lb-4 {
+	width: 50%;
+	background: #000 url(../img/lb4.jpg) center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.lb-5 {
+	width: 50%;
+	background: #000 url(../img/lb5.jpg) center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.lb-6 {
+	width: 50%;
+	background: #000 url(../img/lb6.jpg) center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.lb-7 {
+	width: 50%;
+	background: #000 url(../img/lb7.jpg) center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.lb-3-4 {
+	height: calc(100% / 3 - 1px);
+}
+
+.lb-5-6-7 {
+	height: calc(100% / 3 - 1px);
+}
+
+.lb-5 {
+	width: 33.33%;
+}
+
+.lb-6 {
+	width: 33.33%;
+}
+
+.lb-7 {
+	width: 33.33%;
+}
