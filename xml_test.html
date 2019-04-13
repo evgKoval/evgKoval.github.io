@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>XML</title>
+</head>
+<body>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script>
+        $(function() {
+            console.log( "ready!" );
+
+            $.ajax({
+                method: "GET",
+                url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCBefBxNTPoNCQBU_Lta6Nvg"
+            }).done(function(msg) {
+                alert(msg);
+            });
+        });
+    </script>
+</body>
+</html>
