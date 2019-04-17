@@ -103,15 +103,15 @@ a {
 }
 
 .lb-5 span {
-	color: #fff;
-	border-color: #fff;
+	color: #000;
+	border-color: #000;
 	top: 15px;
 	left: 15px;
 }
 
 .lb-6 span {
-	color: #000;
-	border-color: #000;
+	color: #fff;
+	border-color: #fff;
 	top: 15px;
 	left: 15px;
 }
@@ -160,7 +160,7 @@ a {
 .lb-5 strong {
 	font-size: 22px;
 	line-height: 1.4;
-	color: #fff;
+	color: #000;
 	bottom: 15px;
 	left: 15px;
 }
@@ -168,7 +168,7 @@ a {
 .lb-6 strong {
 	font-size: 22px;
 	line-height: 1.4;
-	color: #000;
+	color: #fff;
 	bottom: 15px;
 	left: 15px;
 }
