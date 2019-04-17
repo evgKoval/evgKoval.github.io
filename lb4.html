@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Videos</title>
+
+	<style>
+		body {
+			padding-top: 30px;
+		}
+	</style>
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+	<div id="app">
+		<div class="container">
+			<div class="row">
+				<button @click="load()" class="btn btn-primary" ref="button">Load videos</button>
+				<div class="col-4" v-for="video in videos">
+					<div class="card text-white bg-dark" style="margin-bottom: 30px">
+					  <img :src="video.thumb" class="card-img-top" alt="...">
+					  <div class="card-body">
+					    <h5 class="card-title">{{ video.title }}</h5>
+					    <p>Views: {{ video.views }}</p>
+					    <p class="card-text"><small class="text-muted">{{ video.published }}</small></p>
+					    <a :href="video.link" class="btn btn-primary" target="_blank">Watch this video</a>
+					  </div>
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</body>
+
+<script src="js/vue.js"></script>
+<script>
+	var app = new Vue({
+		el: '#app',
+		data: {
+			name: '',
+			link: '',
+			videos: []
+		},
+		methods: {
+    	  	load() {
+    	  		this.$refs.button.style.display = 'none';
+
+	  			var xhttp = new XMLHttpRequest();
+
+	  			var this_ = this;
+
+	  			xhttp.onreadystatechange = function() {
+	  		  	if (this.readyState == 4 && this.status == 200) {
+	  		  		var xml = this.responseXML;
+	  		  		var videos = xml.getElementsByTagName('entry');
+
+	  		  		for (var i = 0; i < videos.length; i++) {
+	  		  			var videoObj = {
+	  		  				title: videos[i].getElementsByTagName('title')[0].innerHTML,
+	  		  				link: videos[i].getElementsByTagName('link')[0].getAttribute('href'),
+	  		  				published: new Date(videos[i].getElementsByTagName('published')[0].innerHTML).toDateString(),
+	  		  				thumb: videos[i].getElementsByTagName('media:group')[0].getElementsByTagName('media:thumbnail')[0].getAttribute('url'),
+	  		  				views: videos[i].getElementsByTagName('media:group')[0].getElementsByTagName('media:community')[0].getElementsByTagName('media:statistics')[0].getAttribute('views'),
+	  		  			}
+
+	  		  			this_.videos.push(videoObj);
+	  		  		}
+	  		  	}
+	  			};
+	  			xhttp.open("GET", "videos.xml", true);
+	  			xhttp.send();
+    	  	}
+		}
+	});
+</script>
+
+</html>

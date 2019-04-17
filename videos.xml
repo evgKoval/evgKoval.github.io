@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCDrekHmOnkptxq3gUU0IyfA"/>
+ <id>yt:channel:UCDrekHmOnkptxq3gUU0IyfA</id>
+ <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+ <title>Devon Crawford</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA"/>
+ <author>
+  <name>Devon Crawford</name>
+  <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+ </author>
+ <published>2015-11-27T02:51:19+00:00</published>
+ <entry>
+  <id>yt:video:hLjht9uJWgw</id>
+  <yt:videoId>hLjht9uJWgw</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Downloading My Private Google Data, this is what I found</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hLjht9uJWgw"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2019-04-12T15:31:20+00:00</published>
+  <updated>2019-04-13T14:49:31+00:00</updated>
+  <media:group>
+   <media:title>Downloading My Private Google Data, this is what I found</media:title>
+   <media:content url="https://www.youtube.com/v/hLjht9uJWgw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hLjht9uJWgw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Took a look at my private data and found some pretty weird stuff.. possible security vulnerability with Google Photos, third-party data from eBay and Amazon as well as audio recordings from &quot;Ok, Google&quot;. 
+
+These are just my personal findings and I cannot claim this happens for everyone. Luckily most people watching this video have a YouTube account and therefore a Google account. You can all download your own data and look for what I found in this video, I didn't even have to do any heavy digging, its all pretty much out in the open once you throw stuff into your text editor. This content is not intended to harm any entity or person but rather share some concerns with the current state of data privacy on large websites such as Google.
+
+Next Video:
+Previous Video: https://youtu.be/tyiwliH64Mg
+
+Vito: https://twitter.com/VitoGiovannetti
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Loukeman - Bet We Won't
+Link: https://soundcloud.com/loukeman/bet-we-wont
+
+STVSHBOI - FLASHING LIGHTS w/ TRAPGUNS ☁️
+Link: https://soundcloud.com/stvshboi/flashing-lights-w-trapguns
+
+SwuM - DOOM
+Link: https://soundcloud.com/swumbeats/doom
+
+KASPA. - Not long now
+Link: https://soundcloud.com/kaspamusic/not-long-now
+
+Sappy - NINE TO YO DOME
+Link: https://soundcloud.com/sappy94/nine-to-yo-dome
+
+motat - PULL UP
+Link: https://soundcloud.com/motatnz/pull-up</media:description>
+   <media:community>
+    <media:starRating count="9659" average="4.94" min="1" max="5"/>
+    <media:statistics views="126153"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tyiwliH64Mg</id>
+  <yt:videoId>tyiwliH64Mg</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>I Started a Company By Accident</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tyiwliH64Mg"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2019-04-01T14:20:53+00:00</published>
+  <updated>2019-04-13T14:29:25+00:00</updated>
+  <media:group>
+   <media:title>I Started a Company By Accident</media:title>
+   <media:content url="https://www.youtube.com/v/tyiwliH64Mg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tyiwliH64Mg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>So.. I started my first company.
+
+I never used to consider this youtube thing a &quot;real&quot; business as I'm just a kid making videos in dark room (not so dark anymore). So I talked to some friends running startups and they gave me some really great feedback and hooked me up with legal professionals. I decided to incorporate because I realized what I've already been doing by paying myself as little as possible and saving the rest is exactly what a corporation is meant for (and there's some serious tax benefits with that). 
+
+I wanted to be as transparent as possible in this video. I know its not the usual tech content but sometimes I wander off into some other interests such as business. I'm very excited to use the profits from this channel to their fullest potential, by reinvesting into videos and technology products. Thanks for watching my dudes.
+
+Legal consultation for this video provided by SM Legal (www.smlegal.ca) - not a sponsor, he just watched over the video and thought I should clarify a few things:
+
+&quot;-Corporate revenue is taxed at 13%, not individual earnings. Once you take the money out of the corporation as either a dividend (share payout) or salary, you will still be taxed (at income rate for salary, at capital gains rate for dividend).  
+
+-In your calculation at the end(20K), you may want to mention that the tax paid is before any dividend/salary payout
+
+-You may want to mention that for a corporation to be a financially better decision than earning as a sole-proprietor, most accountants say you need to be making at least between $30,000 - $40,000. This is because a corporation has more administrative costs (including a longer tax return, for which accountants usually charge more) so at under 30 - 40K, the tax savings are pretty much cancelled out by the more expensive admin&quot;
+
+This content is for information purposes only. The content presented here is not legal advice. If you are looking to incorporate, speak with an accountant.
+
+Next Video: https://youtu.be/hLjht9uJWgw
+Previous Video:
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+junyii. EP [2018]
+Link: https://soundcloud.com/chillchildren/junyii-ep-2018
+
+spd. - heaven
+Link: https://soundcloud.com/spudmcqueen/heaven</media:description>
+   <media:community>
+    <media:starRating count="12965" average="4.94" min="1" max="5"/>
+    <media:statistics views="214795"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vNpV9qV0Czg</id>
+  <yt:videoId>vNpV9qV0Czg</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Motion Detection Algorithm Edits my Videos</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vNpV9qV0Czg"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2019-03-22T14:32:27+00:00</published>
+  <updated>2019-04-13T14:47:56+00:00</updated>
+  <media:group>
+   <media:title>Motion Detection Algorithm Edits my Videos</media:title>
+   <media:content url="https://www.youtube.com/v/vNpV9qV0Czg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vNpV9qV0Czg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Here's my naive attempt at building a motion detection algorithm that edits my videos.
+
+AlgoExpert (30% off): https://www.algoexpert.io/devon
+
+Thanks to AlgoExpert for sponsoring this video. Practice your technical interview skills and land your dream job (while supporting my channel!)
+
+This is my first time doing image/video processing pixel by pixel. I'm sure motion/difference algorithms like this already exist but I figured it would be a great learning experience to implement one myself and integrate it with my video editing automation. So far this project does not use any machine learning or AI. There's still a lot we can do without it (and it might even be more efficient!). This is the second video in what may turn into a series. The core video automation functionality is built on top of FFmpeg and was built up in the last video. Now we can start designing more intelligent algorithms that edit videos for us :))
+
+If you have no idea what's going on watch my last video: https://youtu.be/0ZeO0IQaJ-A
+
+If you still have no idea what's going on, comment &quot;I have no idea what's going on&quot;.
+
+Thanks,
+Devon
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+e e v e e - lost found [2QQ3] *Rare*
+Link: https://soundcloud.com/eveline-eevee/lost-found-2001-rare
+
+kloudbug - M&amp;M's FOR BREAKFAST w/ Inteus
+Link: https://soundcloud.com/kloudbug/mms-for-breakfast-w-inteus
+
+crime tech. - GELATO
+Link: https://soundcloud.com/crime-tech/gelato
+
+uncomfy - awake.
+Link: https://soundcloud.com/case-spat/awake-2</media:description>
+   <media:community>
+    <media:starRating count="12684" average="4.96" min="1" max="5"/>
+    <media:statistics views="240886"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0ZeO0IQaJ-A</id>
+  <yt:videoId>0ZeO0IQaJ-A</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Writing a Program that Edits my Videos</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0ZeO0IQaJ-A"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2019-03-01T19:07:36+00:00</published>
+  <updated>2019-04-13T13:44:57+00:00</updated>
+  <media:group>
+   <media:title>Writing a Program that Edits my Videos</media:title>
+   <media:content url="https://www.youtube.com/v/0ZeO0IQaJ-A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0ZeO0IQaJ-A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Trying to learn video processing by writing a program that edits my videos (lol).
+
+Patreon: https://patreon.com/devoncrawford
+My Editing Software (Adobe Premiere): https://goo.gl/rKx66D
+Source Code for this project: https://github.com/DevonCrawford/Video-Editing-Automation
+
+The goal is to build algorithmic building blocks that a human video editor can use in place of their manual labor. This means a partially-autonomous editing workflow, where the human can strategically use the toolkit of algorithms to achieve their desired results. This project uses the FFmpeg library to handle much of the heavy lifting of video processing and intends to build a library on top of FFmpeg without changing the FFmpeg source code. I have many ideas for future algorithms that can be implemented, so let me know if you're interested in this kind of development!
+
+Also note, this was only three weeks of work. The code is not fully tested or documented (the source code is commented though). The random editing function is just a demo to showcase the clip and sequence functionality (cutting clips and stitching them together in a sequence). I was genuinely surprised to see how well the random function performed. I thought it was going to be awful but it wasn't that awful. I would love to use AI in this project, but I've never done AI so I figured I would get a solid base in video/image processing first.
+
+Next Video:
+Previous Video: https://youtu.be/l5VtPY7FBw4
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01): https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- The full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+A M A I - MINNA @ 2:59
+Link: https://soundcloud.com/amaixamai/minna
+
+EMUNE - 100% emune @ 5:45
+Link: https://soundcloud.com/emune/e100
+
+eugene cam - freeze
+Link: https://soundcloud.com/eugenecam/freeze
+
+t1e.6k - CROSS LIKE JORDAN
+Link: https://soundcloud.com/yungtie/cross-like-jordan
+
+Bearfoot - broke (n)
+Link: https://soundcloud.com/bearfoott/broke-n</media:description>
+   <media:community>
+    <media:starRating count="30934" average="4.93" min="1" max="5"/>
+    <media:statistics views="793440"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:l5VtPY7FBw4</id>
+  <yt:videoId>l5VtPY7FBw4</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Hacking the YouTube Algorithm 2019</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=l5VtPY7FBw4"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2019-02-02T15:15:01+00:00</published>
+  <updated>2019-04-13T14:43:47+00:00</updated>
+  <media:group>
+   <media:title>Hacking the YouTube Algorithm 2019</media:title>
+   <media:content url="https://www.youtube.com/v/l5VtPY7FBw4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/l5VtPY7FBw4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Today I wanted to talk about my experience with sudden growth on the platform and how I've come to understand the YouTube algorithm.
+
+Support me on Patreon: https://www.patreon.com/devoncrawford
+
+I see many negative associations with the YouTube algorithm. People say it creates pressure and suppresses creative content in favor of consistency. In this video, I wanted to share an alternate opinion as I've posted hundreds of videos on the platform and only recently experienced sudden growth. Yes, the platform is becoming more difficult to succeed, but what inspires me is that the algorithm is actively searching for high-value content to put on a pedestal. If you have a small audience but you put out a video that has very high value, chances are the algorithm will pick it up. I have seen this time and time again, with not only my channel but many others as well. I believe the algorithm is working very well and it is quite motivating to see my own high-value videos get more views. 
+
+I know this video may seem very generic and unhelpful because it sounds like I am stating the obvious. I made this video because for years I posted random content on YouTube and wondered why it never got views. The only missing piece was putting myself in a strangers perspective and thinking about the value I am providing to them. Once I figured out how to convey my passions and interests in a way that would provide high value to strangers, everything worked out. I'm not saying it's easy or that I have it all figured out - but it is damn exciting that growth like this is still possible for the little guys.
+
+Next Video: https://youtu.be/0ZeO0IQaJ-A
+Previous Video: https://youtu.be/SC7lLm6QAb8
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+SOUDIERE - NUMB
+Link: https://soundcloud.com/youngpirelli/numb
+
+emo the optimist - [bump]
+Link: https://soundcloud.com/emotheoptimist/loser-bump
+
+sad adult - mean girl
+Link: https://soundcloud.com/sadadult/mean-girl
+
+ooljéé - lady killa
+Link: https://soundcloud.com/ooljee/lady-killa</media:description>
+   <media:community>
+    <media:starRating count="9504" average="4.78" min="1" max="5"/>
+    <media:statistics views="209351"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SC7lLm6QAb8</id>
+  <yt:videoId>SC7lLm6QAb8</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Platform for Scalable Web Apps | How I built my website with Kubernetes</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SC7lLm6QAb8"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2019-01-25T15:00:04+00:00</published>
+  <updated>2019-04-13T11:43:27+00:00</updated>
+  <media:group>
+   <media:title>Platform for Scalable Web Apps | How I built my website with Kubernetes</media:title>
+   <media:content url="https://www.youtube.com/v/SC7lLm6QAb8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SC7lLm6QAb8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I've spent months building a platform to support my development of scalable web applications. In this video, I try to share the learning process.
+
+My personal website has a lot behind the scenes that most people cannot interact with. I've written up a few microservices and decided to deploy them on kubernetes. Some may say that what I've done is overkill - but it really does simplify the workflow once its setup (and I don't have to rewrite my codebase in the future!)
+
+The end result:
+- Kubernetes cluster on digital ocean.. 3 nodes, a load balancer, and persistent volume
+- nginx-ingress controller exposes services to the outside world (all other services are internal)
+
+Microservices:
+- jwt authentication server (security)
+- hangfire background processing server
+- MySQL database
+- mailer
+- front end
+
+There is still a lot of work to be done. While most services are scalable - the database is not. Currently, our database is a single instance. I think someday I will need to deploy a MySQL cluster to support replication, etc. This was a massive topic to cover in a single video so I could not explain everything, my hope is that people can take what they see and research further.
+
+Technologies Used:
+- CPU Intensive Backend: C# with ASP .NET Core
+- Simple I/O Intensive Backend: Node js
+- Database: MySQL
+- Scheduler: Hangfire open source background processing library
+- Authentication: JWT backed by Dotnet Identity
+- Mailing Service: Sendgrid
+- Integrations: YouTube, Github
+- Deployment: Docker images w/ Kubernetes
+- Front end: Next js / React
+
+Hangfire (background processing): https://youtu.be/NRiVrZ_8vwA
+YouTube Descriptions Updater: https://youtu.be/uKmjvCPllWQ
+Next Video: https://youtu.be/l5VtPY7FBw4
+Previous Video: https://youtu.be/eDjGBOxuuZs
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Puar - GEMS W/ sin
+Link: https://soundcloud.com/puarbeats/gems-w-sin
+
+bob le head - gapintheclouds [ep] @ 6:52
+Link: https://soundcloud.com/bob-le-head/gapintheclouds-ep
+
+dis.joint - knock
+Link: https://soundcloud.com/dis-joint/knock-3
+
+A L E X - Easy Track (part of Growing Up, Vol.2)
+Link: https://beatsupply.fanlink.to/growingupvol2</media:description>
+   <media:community>
+    <media:starRating count="13309" average="4.91" min="1" max="5"/>
+    <media:statistics views="361605"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eDjGBOxuuZs</id>
+  <yt:videoId>eDjGBOxuuZs</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Why I'm not in School</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=eDjGBOxuuZs"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2019-01-18T15:00:03+00:00</published>
+  <updated>2019-04-13T14:28:34+00:00</updated>
+  <media:group>
+   <media:title>Why I'm not in School</media:title>
+   <media:content url="https://www.youtube.com/v/eDjGBOxuuZs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eDjGBOxuuZs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I should be in third year university but instead I'm trying something different. Let me know your thoughts.
+
+My channel will still be mainly technology based and I will still be around the university to hang out with friends. I just wanted to shift my focus from the classroom onto projects that I'm passionate about.The only reason I am able to do this is because of you guys that watch the videos so I really appreciate it. Check out my website for a deeper explanation of what I want to learn.
+
+My website: https://devoncrawford.io
+
+What was I coding? Most of what you saw was the backend of my website which includes:
+- JWT authentication server (backed by dotnet identity)
+- hangfire background processing server
+- mailing server
+- mysql database
+
+This means I already have the infrastructure in place to secure other microservices (with jwt), write background tasks for mysql database (hangfire), and send emails. This provides a good foundation for any future applications I want to develop. The front end is written in Next js + React. All services are deployed in containers on a kubernetes cluster (my first time doing this!). Read the software page on my website more detail on the technology stack.
+
+Next Video:
+Previous Video: https://youtu.be/NRiVrZ_8vwA
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+₪ jetson - lemon water [EP] @ 2:47
+Link: https://soundcloud.com/highimjetson/lemonwater
+
+zodivk - DandA
+Link: https://soundcloud.com/zodivk/danda
+
+Chill Children - bob le head EP [2018]
+Link: https://soundcloud.com/chillchildren/bob-le-head-ep-2018
+
+jack cates - melancholy
+Link: https://soundcloud.com/jackisbroken/melancholy-1</media:description>
+   <media:community>
+    <media:starRating count="11549" average="4.95" min="1" max="5"/>
+    <media:statistics views="244190"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NRiVrZ_8vwA</id>
+  <yt:videoId>NRiVrZ_8vwA</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Learning a new Programming Language | Developer Vlog (Backend Microservices)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NRiVrZ_8vwA"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2018-11-18T18:00:04+00:00</published>
+  <updated>2019-04-13T13:11:44+00:00</updated>
+  <media:group>
+   <media:title>Learning a new Programming Language | Developer Vlog (Backend Microservices)</media:title>
+   <media:content url="https://www.youtube.com/v/NRiVrZ_8vwA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NRiVrZ_8vwA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Learning Backend Web Development in C# by writing my first Microservice. Github repository data is pulled into my database every 10 minutes so that we can display a near realtime software portfolio on my website. In the future we will also add more data to my database so that project pages can be automatically generated (with articles and images etc)
+
+The goal was to build a scalable background microservices architecture, where I can easily write new services independently and then seamlessly plug them into my server on a Cron schedule. I spent most of this video reading documentation and learning ASP .NET Core, Hangfire, Microsoft Entity Framework, object mappers and how to best organize my services to easily extend them in the future. I have found a solution that works well for me, only requiring two lines of code to add a service to my scheduler. This is me learning through doing. Roughly 20 hours of coding went into this video. See below for technologies used in more detail.
+
+Next Video: https://youtu.be/eDjGBOxuuZs
+Previous Video: https://youtu.be/1-YPj5Vt0oQ
+
+Technologies Used
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Backend: C# with ASP .NET Core
+Database: MySQL
+Scheduler: Hangfire open source background processing library
+API: Github
+Object Mapper: Microsoft Entity Framework Core (Maps MySQL into objects)
+JSON Mapper: Newtonsoft (Maps Github API response into objects)
+Editor: VSCode with Material Oceanic Theme
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Bubbymane - Forever w/ Tony
+Link: https://soundcloud.com/yungbubby/forever-w-tony
+
+Puar - In The Rough
+Link: https://soundcloud.com/puarbeats/in-the-rough
+
+DaRu - MXTIXN X Backwood Boy - Pour Dat Phonk
+Link: https://soundcloud.com/daru-4/mxtixn-x-backwood-boy-pour-dat-phonk
+
+shao - runnin' up w/ SOUDIERE
+Link: https://soundcloud.com/prodbyshao/runnin-up-ww-soudiere</media:description>
+   <media:community>
+    <media:starRating count="9396" average="4.91" min="1" max="5"/>
+    <media:statistics views="315256"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1-YPj5Vt0oQ</id>
+  <yt:videoId>1-YPj5Vt0oQ</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Coding an A* Pathfinding Visualization</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1-YPj5Vt0oQ"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2018-10-22T17:00:00+00:00</published>
+  <updated>2019-04-13T13:23:09+00:00</updated>
+  <media:group>
+   <media:title>Coding an A* Pathfinding Visualization</media:title>
+   <media:content url="https://www.youtube.com/v/1-YPj5Vt0oQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1-YPj5Vt0oQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>An overview of the popular A* pathfinding algorithm and my experiences coding a visualization in Java swing. This was one of those projects I made a few years back when learning Java, so I pretty much just googled &quot;A* pathfinding for beginners&quot; and ran with that haha. I tried to explain my understanding in the most simple way possible. Bigger projects coming soon.
+
+Download the jar (project page): http://devoncrawford.io/software/pathfinding/
+
+Next Video: 
+Previous Video: https://youtu.be/YmWMi1kVCG8
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+$NOT - WAVY ASF ///
+Link: https://soundcloud.com/sn0t/wavy-asf
+
+/KXLD. - L O R D ✦ C H I G G A
+Link: https://soundcloud.com/kxld/l-o-r-d-c-h-i-g-g-a
+
+slowheal - mirage
+Link: https://soundcloud.com/slowhealmusic/mirage
+
+Late June - Windowsill By Our Bed
+Link: https://soundcloud.com/latejune/windowsill-by-our-bed</media:description>
+   <media:community>
+    <media:starRating count="4639" average="4.96" min="1" max="5"/>
+    <media:statistics views="145591"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YmWMi1kVCG8</id>
+  <yt:videoId>YmWMi1kVCG8</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>The Reality of Programming</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YmWMi1kVCG8"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2018-10-01T17:00:05+00:00</published>
+  <updated>2019-04-13T14:31:42+00:00</updated>
+  <media:group>
+   <media:title>The Reality of Programming</media:title>
+   <media:content url="https://www.youtube.com/v/YmWMi1kVCG8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YmWMi1kVCG8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I'm confused. Watch till the end of the video.
+
+Occasionally I work on a project only to scrap it so I wanted to show you one example. From the outside it may appear that a developer is some genius guy who can make whatever he wants. Although this is partially true (engineering is magic), many of you don't see all of the time spent just thinking and reading... All of the footage I capture is usually the by-product of countless hours of thinking. Over the past month I've worked on many new things - react, I2C driver programming and containerization with docker. It's just reminded me how large the technology stack is and everyone is a beginner at some level of the stack. I feel like I haven't made much progress in the past month because I've been a beginner at a lot of new things :) This is the reality and I needed a YouTube vid so I figured I would talk about it. 
+
+Next Video:
+Previous Video: https://youtu.be/4VKujatobSQ
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+₪ jetson - ㅤㅤcatch me outside 🔪ㅤㅤ
+Link: https://soundcloud.com/highimjetson/catch-me-outside
+
+C Y G N - Color Shade
+Link: https://soundcloud.com/cygn-artist/color-shade
+
+KARMA RHYTHM - sea shells (w. goosetaf)
+Link: https://soundcloud.com/karmarhythm/sea-shells-w-goosetaf-1</media:description>
+   <media:community>
+    <media:starRating count="15259" average="4.88" min="1" max="5"/>
+    <media:statistics views="423578"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4VKujatobSQ</id>
+  <yt:videoId>4VKujatobSQ</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Hardware Programming | Battery Capacity Testing Robot [ Part 3 ]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4VKujatobSQ"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2018-09-15T20:06:46+00:00</published>
+  <updated>2019-04-13T13:54:25+00:00</updated>
+  <media:group>
+   <media:title>Hardware Programming | Battery Capacity Testing Robot [ Part 3 ]</media:title>
+   <media:content url="https://www.youtube.com/v/4VKujatobSQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4VKujatobSQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This machine will automate the capacity testing of 18650 cells based on a constant 1 amp current draw. I have a few hundred 18650 cells that were salvaged from laptop batteries. Some may be good, and some may be bad. I want to assemble all of the good batteries into packs for my camera, phone, solar power bank, the list just goes on really. This machine is the first step. Also yes the stack of batteries was a very dumb idea but I tried to use the parts I already had. Obviously a DC(high rpm) motor is not suitable especially since you cant really do precise movements. 
+
+Watch part 2: https://youtu.be/Gp6T2UscHwc
+Next Video:
+Previous Video: https://youtu.be/gZuNOqaDnSQ
+
+Hardware
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Constant Current Load (inspired by GreatScott): https://www.youtube.com/watch?v=8uBcywBUTkw&amp;t=224s
+
+Battery Discharge Protection Circuit: Designed by me last summer :) This circuit monitors the battery voltage and disconnects it from the load at around 2.52V. It needs an external signal such as a switch or an Arduino digital write to turn on the battery once it disconnects. When the battery dies, the circuit disconnects itself from the battery, drawing zero current in its off state.
+
+Lithium-Ion Batteries Research: https://batteryuniversity.com/learn/article/lithium_based_batteries
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+BVLLVH - fool around
+Link: https://soundcloud.com/bvllvh/fool-around-prod-bvllvh
+
+zodivk - passionfruit(+)
+Link: https://soundcloud.com/zodivk/passionfruit
+
+₪ jetson - ㅤㅤtemporary °ㅤㅤ
+Link: https://soundcloud.com/highimjetson/temporary
+
+Mozaic - Transition
+Link: https://soundcloud.com/eclecticimprint/transition</media:description>
+   <media:community>
+    <media:starRating count="3814" average="4.97" min="1" max="5"/>
+    <media:statistics views="96610"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gZuNOqaDnSQ</id>
+  <yt:videoId>gZuNOqaDnSQ</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Designing my Server Architecture for Scalable Web Applications</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gZuNOqaDnSQ"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2018-08-26T19:00:24+00:00</published>
+  <updated>2019-04-13T11:47:44+00:00</updated>
+  <media:group>
+   <media:title>Designing my Server Architecture for Scalable Web Applications</media:title>
+   <media:content url="https://www.youtube.com/v/gZuNOqaDnSQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gZuNOqaDnSQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>https://brilliant.org/DevonCrawford
+^ This video is sponsored by Brilliant! To master computer science and support my channel use my link :)
+
+In this video I decided to share my research over the past few weeks since I have encountered many roadblocks when designing my server architecture. My current design is just a single node js + express application which handles all routes for my front end, back end + any other web apps I want to integrate. This is design is okay for small websites but as soon as you want to do multiple apps it becomes problematic. Pretty sure my new design is called a &quot;micro-services&quot; approach. and lately I've just done a lot of research on what tech would best suit my needs. A few things I didn't get the chance to mention in this video.. 1) I don't actually know JavaScript that well tbh.. any real algorithmic processing I will do in c++ or c and then integrate that code using the node ffi library. 2) I only want to use JavaScript, node js and express to act as the glue between my programs and the website. I prefer languages like C, C++ or Java since the compiler will yell at you for anything you've done wrong. I'll do all my real processing in the languages which I know best. 3) See below for a bunch of resources that I found helpful when learning all of this stuff!
+And also, I would really like to hear everyone's feedback and possible improvements or ideas you may think of when designing such a system. 
+
+Technology used in this video
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Server: Node js + Express (Javascript)
+Front End: Next js + React (HTML, CSS, JS)
+Reverse Proxy &amp; Load Balancer: Nginx
+Website Host: Digital Ocean Cloud computing platform
+Data: JSON, AJAX (asynchronous calls from client to server)
+
+Next Video:
+Previous Video: https://youtu.be/rrxdbbFSeio
+
+Research / Resources
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Production best practices (express): https://expressjs.com/en/advanced/best-practice-performance.html
+Client vs Server side rendering: https://medium.freecodecamp.org/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d
+Next js: https://nextjs.org/
+Nginx config explained: https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+swad beach - aruarian dance (swadmix)
+Link: https://soundcloud.com/swad2/aruarian-dance-swadmix
+
+Inteus - I Pull up in a What is That
+Link: https://soundcloud.com/inteus666/i-pull-up-in-a-what-is-that
+
+SwuM. - NEW DRUM KIT OUT NOW!
+Link: https://soundcloud.com/swumbeats/lofi-trap-drum-kit-out-now
+
+lzr - goin up
+Link: https://soundcloud.com/prodlzr/goin-up</media:description>
+   <media:community>
+    <media:starRating count="8271" average="4.90" min="1" max="5"/>
+    <media:statistics views="281854"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rrxdbbFSeio</id>
+  <yt:videoId>rrxdbbFSeio</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Nerds go Clubbing..</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rrxdbbFSeio"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2018-08-17T17:00:10+00:00</published>
+  <updated>2019-04-12T21:29:36+00:00</updated>
+  <media:group>
+   <media:title>Nerds go Clubbing..</media:title>
+   <media:content url="https://www.youtube.com/v/rrxdbbFSeio?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rrxdbbFSeio/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The first time I've seen my university friends in 3 months.. Booked a hotel in downtown Toronto with 1 bed for 6 guys. Needless to say we did not fit in at the club, but at least I got a decent vid.
+
+Quick synopsis:
+Lost my drivers license, hotel had a fire alarm, doctor Michael was crowd surfing for 2 seconds, six guys paid $65 to sleep on the floor. I don't even know what this video was. Occasionally I may do some vlogs like this, I can't always make coding vids ;)
+
+Next Video:
+Previous Video: https://youtu.be/CWyTYcPtv_Q
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+aidan - going nowhere° [madeintyo flip]
+Link: https://soundcloud.com/hats/nowhere
+
+SwuM. - finesse
+Link: https://soundcloud.com/swumbeats/finesse
+
+SwuM. - スモーク (at 38:35 &amp; 42:45)
+Link: https://soundcloud.com/swumbeats/hnarhxcajw5s
+
+Alicks - complex
+Link: https://soundcloud.com/alicks14/complex-a-mess-lp-read-description</media:description>
+   <media:community>
+    <media:starRating count="3203" average="4.93" min="1" max="5"/>
+    <media:statistics views="88571"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CWyTYcPtv_Q</id>
+  <yt:videoId>CWyTYcPtv_Q</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>Coding User Authentication &amp; Security | YouTube Descriptions Updater [ Part 2 ]</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CWyTYcPtv_Q"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2018-08-03T17:00:02+00:00</published>
+  <updated>2019-04-13T11:04:01+00:00</updated>
+  <media:group>
+   <media:title>Coding User Authentication &amp; Security | YouTube Descriptions Updater [ Part 2 ]</media:title>
+   <media:content url="https://www.youtube.com/v/CWyTYcPtv_Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CWyTYcPtv_Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I've started researching and implementing server server side sessions, user authentication and a user accounts database into the YouTube Descriptions Updater. Its taken me a while but I'd like to share what I've just recently learned about security and how web applications handle multiple users. I'm hoping to create another video which takes an in depth look at the code and authentication flow in implementation. In this video I tried to share the theory behind web security and I started playing around with the code.
+
+Watch Part 1: https://youtu.be/uKmjvCPllWQ
+
+Technologies Used:
+Node js with express as backend server
+Passport js for sessions and authentication
+MongoDB for user accounts database
+YouTube Data API V3
+JSON parsing and requests/responses
+
+Technical Resources / Research:
+Server &amp; Authentication Basics: https://medium.com/@evangow/server-authentication-basics-express-sessions-passport-and-curl-359b7456003d
+How does a web session work?: https://machinesaredigging.com/2013/10/29/how-does-a-web-session-work/
+Passport (Authentication library): http://www.passportjs.org/
+Session Hijacking: https://security.stackexchange.com/questions/81519/session-hijacking-through-sessionid-brute-forcing-possible
+Insufficient Session ID length: https://www.owasp.org/index.php/Insufficient_Session-ID_Length
+OWASP: https://www.owasp.org/index.php/Main_Page
+Signed Cookies: https://stackoverflow.com/questions/11897965/what-are-signed-cookies-in-connect-expressjs
+
+Next Video: https://youtu.be/rrxdbbFSeio
+Previous Video: https://youtu.be/hkJ14TzLK_w
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Green Piccolo - Namek
+Link: https://soundcloud.com/greenpiccolobeats/namek
+
+Beef. - East.
+Link: https://soundcloud.com/prodbeef/east
+
+eugene cam - cove.
+Link: https://soundcloud.com/eugenecam/cove
+
+Karma Rhythm - snuggle music (beattape)
+Link: https://soundcloud.com/karmarhythm/snuggle
+
+grandsonn - lost the project for this last year
+Link: https://soundcloud.com/grndsonn/lost-the-project-for-this-last-year</media:description>
+   <media:community>
+    <media:starRating count="5801" average="4.95" min="1" max="5"/>
+    <media:statistics views="189364"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ReVeUvwTGdU</id>
+  <yt:videoId>ReVeUvwTGdU</yt:videoId>
+  <yt:channelId>UCDrekHmOnkptxq3gUU0IyfA</yt:channelId>
+  <title>3 years of Computer Science in 8 minutes</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ReVeUvwTGdU"/>
+  <author>
+   <name>Devon Crawford</name>
+   <uri>https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA</uri>
+  </author>
+  <published>2018-07-24T17:00:13+00:00</published>
+  <updated>2019-04-13T14:49:04+00:00</updated>
+  <media:group>
+   <media:title>3 years of Computer Science in 8 minutes</media:title>
+   <media:content url="https://www.youtube.com/v/ReVeUvwTGdU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ReVeUvwTGdU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This is the most asked question on my channel by far so I thought I'd explain how I learned programming. In the process I got a little distracted and accidentally explained all of computer science in 8 minutes (kind of). 
+
+The goal of this video was to show you the connections between modern day (high-level) programming and how it was implemented at the low level. I show you the basics in Java and convert it to C code, then into Assembly, which leads me to talk about how computers perform addition/subtraction, and the logic design behind that is all implemented with transistors. In case you couldn't tell, I love low level programming. Just a disclaimer that I'm not saying this is the best way to learn programming I am simply sharing what I feel was the most valuable in my learning so far. I know many people start with web technologies which can be a great introduction as well! I am currently teaching myself a lot of server networking &amp; all that stuff. I just believe if you really want to understand how to design algorithms and solve problems in creative ways then the most valuable things you can learn are at the low level. Even though C is 40 years old it is still regarded as producing the most efficient code since you have full control over pointers and memory management with minimal overhead. (the only thing faster is assembly.. an even lower level)
+
+Technical Resources!!
+C Programming Language, 2nd Edition (Awesome Book): https://amzn.to/2LDeFOr
+Easy68K (Assembly Simulator): http://www.easy68k.com/
+Hexadecimal to Binary Conversions: https://www.rapidtables.com/convert/number/hex-dec-bin-converter.html
+Two's Complement (Binary Addition/Subtraction): https://en.wikipedia.org/wiki/Two%27s_complement
+
+Next Video:
+Previous Video:
+
+Social
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Website: https://devoncrawford.io
+Twitter: https://twitter.com/DevonCrawford13
+Snapchat: https://www.snapchat.com/add/devoncrawfordyt
+Instagram: https://www.instagram.com/devoncrawford_/
+Github: https://github.com/devoncrawford
+Discord: https://discord.gg/sU2fur9
+Patreon: https://www.patreon.com/devoncrawford
+
+Gear
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+- Video Editing Software (Premiere Pro CC): https://goo.gl/rKx66D
+- All Adobe Apps (I use this plan): https://goo.gl/hrTYFS
+- Keyboard (Velocifire TKL01) : https://amzn.to/2AQTjJQ
+- Monitors (Dell U2518D) : https://amzn.to/2AQQmco
+- Webcam (Logitech C920): https://amzn.to/2Cw588c
+- Desk Microphone (Blue Yeti): https://amzn.to/2FPFmzi
+- DSLR (Canon T7i): https://amzn.to/2T54mpZ
+- Wide Lens (Tokina 11-16mm F2.8): https://amzn.to/2MlpvcO
+- Full list of gear: https://devoncrawford.io/gear
+
+Music
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+emo the optimist - fading light
+Link: https://soundcloud.com/emotheoptimist/fading-light-2
+
+shortfatty - distant
+Link: https://soundcloud.com/shortfatty/distant
+
+a l e x - This Week
+Link: https://beatsupply.fanlink.to/growingupvol2
+
+Weaver Beats² - TRAPPIN IN ＨＯＮＯＬＵＬＵ⁴
+Link: https://soundcloud.com/weaverbeats2/trappin-4
+
+a l e x - Soul Will Mess With Me
+Link: https://beatsupply.fanlink.to/growingupvol2
+
+a l e x - Peppy Won't Fly Straight and Its Getting on My Nerves
+Link: https://beatsupply.fanlink.to/growingupvol2</media:description>
+   <media:community>
+    <media:starRating count="100890" average="4.73" min="1" max="5"/>
+    <media:statistics views="3563775"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
