@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>TeX</title>
+
+    <style>
+    	body {
+    		padding-top: 10px;
+    		text-align: center;
+    	}
+    	.container {
+    		width: 980px;
+    		margin: auto;
+    	}
+    	.MathJax_CHTML {
+    		font-size: 1.8em !important;
+    	}
+    </style>
+
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+</head>
+<body>
+
+	<div class="container">
+		<h2>Завдання: знайти невизначений інтеграл</h2>
+		<div>
+			<math xmlns="http://www.w3.org/1998/Math/MathML"><msubsup><mo>&#x222B;</mo><mrow/><mrow/></msubsup><mfrac><msup><mi>x</mi><mn>5</mn></msup><mroot><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mfrac><mi>d</mi><mi>x</mi></math>
+		</div>
+		<br>
+		<br>
+		<h3>Рішення:</h3>
+		<div style="margin-bottom: 50px">
+			<math xmlns="http://www.w3.org/1998/Math/MathML"><msubsup><mo>&#x222B;</mo><mrow/><mrow/></msubsup><mfrac><msup><mi>x</mi><mn>5</mn></msup><mroot><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mfrac><mi>d</mi><mi>x</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><msubsup><mo>&#x222B;</mo><mrow/><mrow/></msubsup><mfrac><msup><mi>x</mi><mn>3</mn></msup><mroot><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mfrac><mi>d</mi><msup><mi>x</mi><mn>3</mn></msup><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><msubsup><mo>&#x222B;</mo><mrow/><mrow/></msubsup><mfrac><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>1</mn></mrow><mroot><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mfrac><mi>d</mi><mo>(</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>1</mn><mo>)</mo><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><msubsup><mo>&#x222B;</mo><mrow/><mrow/></msubsup><mfrac><mn>1</mn><mroot><mrow><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mfrac><mi>d</mi><mo>(</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>1</mn><mo>)</mo><mo>=</mo></math>
+		</div>
+		<div style="margin-bottom: 50px">
+			<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><msubsup><mo>&#x222B;</mo><mrow/><mrow/></msubsup><mo>(</mo><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup><msup><mo>)</mo><mrow><mn>2</mn><mo>/</mo><mn>3</mn></mrow></msup><mi>d</mi><mo>(</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>1</mn><mo>)</mo><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><msubsup><mo>&#x222B;</mo><mrow/><mrow/></msubsup><mo>(</mo><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup><msup><mo>)</mo><mrow><mo>-</mo><mn>1</mn><mo>/</mo><mn>3</mn></mrow></msup><mi>d</mi><mo>(</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>1</mn><mo>)</mo><mo>=</mo></math>
+		</div>
+		<div>
+			<math xmlns="http://www.w3.org/1998/Math/MathML"><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>(</mo><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup><msup><mo>)</mo><mrow><mn>5</mn><mo>/</mo><mn>3</mn></mrow></msup><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>(</mo><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup><msup><mo>)</mo><mrow><mn>2</mn><mo>/</mo><mn>3</mn></mrow></msup><mo>+</mo><mi>C</mi><mo>=</mo><mroot><mrow><mo>(</mo><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup><msup><mo>)</mo><mn>2</mn></msup></mrow><mn>3</mn></mroot><mo>[</mo><mn>0</mn><mo>,</mo><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mn>0</mn><mo>,</mo><mn>3</mn><mo>]</mo><mo>+</mo><mi>C</mi></math>
+		</div>
+		<br>
+		<br>
+		<h3>Відповідь:</h3>
+		<div>
+			<math xmlns="http://www.w3.org/1998/Math/MathML"><mroot><mrow><mo>(</mo><mn>1</mn><mo>+</mo><msup><mi>x</mi><mn>3</mn></msup><msup><mo>)</mo><mn>2</mn></msup></mrow><mn>3</mn></mroot><mo>[</mo><mn>0</mn><mo>,</mo><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mn>0</mn><mo>,</mo><mn>3</mn><mo>]</mo><mo>+</mo><mi>C</mi></math>
+		</div>
+	</div>
+
+
+</body>
+</html>
