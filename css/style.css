@@ -242,21 +242,21 @@ a {
 
 .lb-4 {
 	width: 50%;
-	background: #000 url(../img/lb4.jpg) center no-repeat;
+	background: #000 url(../img/lb6.jpg) center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 
 .lb-5 {
 	width: 50%;
-	background: #000 url(../img/lb5.jpg) center no-repeat;
+	background: #000 url(../img/lb4.jpg) center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 
 .lb-6 {
 	width: 50%;
-	background: #000 url(../img/lb6.jpg) center no-repeat;
+	background: #000 url(../img/lb5.jpg) center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
