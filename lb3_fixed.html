@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Latex</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+	</script>
+	<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+	</script>
+	<style>
+    body {
+      padding-top: 10px;
+      text-align: center;
+    }
+    .container {
+      width: 980px;
+      margin: auto;
+    }
+    p {font-size: 1.5em;}
+    p.text {text-align: start;}
+    u {font-weight: bold;}
+    li {text-align: start; font-size: 1.5em; margin-top: 10px;}
+	</style>
+</head>
+<body>
+  <div class="container">
+    <h1>Завдання: знайти невизначений інтеграл</h1>
+    <p class="text">
+      $$\int_{}^{} \frac{x^5}{\sqrt[3]{1+x^3}}dx$$
+    </p>
+    <h3>Рішення:</h3>
+    <p class="text">
+      $$\int_{}^{} \frac{x^5}{\sqrt[3]{1+x^3}}dx=\frac{1}{3}\int_{}^{} \frac{x^3}{\sqrt[3]{1+x^3}}dx^3=$$
+    </p>
+    <p class="text">
+      $$=\frac{1}{3}\int_{}^{} \frac{x^3+1}{\sqrt[3]{1+x^3}}d(x^3+1)-\int_{1}^{3} \int_{}^{} \frac{1}{\sqrt[3]{1+x^3}}d(x^3+1)=$$
+    </p>
+    <p class="text">
+      $$=\frac{1}{3}\int_{}^{} (1+x^3)^{2/3}d(x^3+1)-\frac{1}{3}\int_{}^{}(1+x^3)^{-1/3}d(x^3+1)=$$
+    </p>
+    <p class="text">
+      $$=\frac{1}{5}(1+x^3)^{5/3}-\frac{1}{2}(+1x^3)^{2/3}+C=\sqrt[3]{(1+x^3)^2}[0,2x^3-0,3]+C$$
+    </p>
+    <h2>Відповідь:</h2>
+    <p class="text">
+      $$\sqrt[3]{(1+x^3)^2}[0,2x^3-0,3]+C$$
+    </p>
+  </div>
+</body>
+</html>
