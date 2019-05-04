@@ -4,64 +4,216 @@
 	<meta charset="UTF-8">
 	<title>SVG</title>
 
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-
 	<style>
-		#circle1 {
-		  animation-name: cirlce;
-		  animation-duration: 3s;
-		  animation-timing-function: ease-in-out;
-		  animation-iteration-count: infinite;
-		}
-
-		@keyframes cirlce {
-		  from {
-		  	cx: 0%;
-		    cy: 0%;
-		    fill: none;
-		    stroke: grey;
-		  }
-		  to {
-		  	cx: 50%;
-		    cy: 50%;
-		    fill: #9284D9;
-		    stroke: white;
-		  }
+		h1 {
+			text-align: center;
 		}
 	</style>
 </head>
 <body>
+	<h1>Сортировка массива вставками</h1>
 
-	<div class="container pt-3">
-		<h1>Введите ваш код</h1>
-		<hr>
-		<textarea style="width: 100%" rows="10">
-for (var i = 0; i < this.galleryElements[0].more_values.length * 2; i++) {
-	if(i % 2 != 0) {
-		result[i] = '';
-		k++;
-	} else {
-		result[i] = this.galleryElements[0].more_keys[v];
-		v++;
-	}
-}
-		</textarea>
-	</div>
+	<svg width="1280px" height="800px" xmlns="http://www.w3.org/2000/svg">
+	 
+		<rect width="150" height="50" x="50%" y="10" rx="40" ry="40" fill="#fff" stroke="#000">
+			<animate id="begin" attributeName="opacity" from="0" to="1" dur="0.5s"	animation-timing-function="ease-out"/>
+		</rect>
+		
+		<text x="53%" y="39">
+			Начало
+			<animate attributeName="opacity" from="0" to="1" dur="0.5s"	animation-timing-function="ease-out"/>
+		</text> 
 
-	<!-- <svg width="100%" height="100vh" xmlns="http://www.w3.org/2000/svg">
+		<line x1="56%" y1="60" x2="56%" y2="90" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineOne" attributeName="y2" begin="begin.end" from="60" to="90" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineOne.begin" dur="0.5s" fill="freeze"/>
+		</line>
+
+		<rect width="250" height="50" x="47%" y="90" fill="#fff" stroke="#000" style="opacity: 0;">
+			<animate id="rectTwo" attributeName="opacity" from="0" to="1" begin="LineOne.end" dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="54%" y="120" style="opacity: 0;">
+			i := 2
+			<animate attributeName="opacity" from="0" to="1" begin="LineOne.end" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<line x1="56%" y1="140" x2="56%" y2="190" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineTwo" attributeName="y2" begin="rectTwo.end" from="140" to="190" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="rectTwo.end" dur="0.5s" fill="freeze"/>
+		</line>
+
+		<line x1="56%" y1="190" x2="46%" y2="230" stroke="#000" stroke-width="1" style="opacity: 0;">
+			<animate id="RombOne" attributeName="y2" begin="LineTwo.end" from="190" to="230" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineTwo.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<line x1="56%" y1="190" x2="66%" y2="230" stroke="#000" stroke-width="1" style="opacity: 0;">
+			<animate id="RombOne" attributeName="y2" begin="LineTwo.end" from="190" to="230" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineTwo.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<line x1="46%" y1="230" x2="56%" y2="270" stroke="#000" stroke-width="1" style="opacity: 0;">
+			<animate id="RombOne" attributeName="y2" begin="LineTwo.end" from="230" to="270" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineTwo.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<line x1="66%" y1="230" x2="56%" y2="270" stroke="#000" stroke-width="1" style="opacity: 0;">
+			<animate id="RombOne" attributeName="y2" begin="LineTwo.end" from="230" to="270" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineTwo.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<text x="54%" y="235" style="opacity: 0;">
+			i < n
+			<animate attributeName="opacity" from="0" to="1" begin="LineTwo.end" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<line x1="56%" y1="270" x2="56%" y2="300" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineThree" attributeName="y2" begin="RombOne.end" from="270" to="300" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="RombOne.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<text x="57%" y="288" style="opacity: 0;">
+			true
+			<animate attributeName="opacity" from="0" to="1" begin="LineThree.begin" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<line x1="66%" y1="230" x2="80%" y2="230" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineFour" attributeName="x2" begin="RombOne.end" from="66%" to="80%" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="RombOne.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<text x="67%" y="220" style="opacity: 0;">
+			false
+			<animate attributeName="opacity" from="0" to="1" begin="LineFour.begin" dur="0.5s" fill="freeze"/>
+		</text>
+		<line x1="80%" y1="230" x2="80%" y2="260" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineFive" attributeName="y2" begin="LineFour.end" from="230" to="260" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineFour.end" dur="0.5s" fill="freeze"/>
+		</line>
+
+		<rect width="150" height="50" x="74%" y="260" rx="40" ry="40" fill="#fff" stroke="#000" style="opacity: 0;">
+			<animate attributeName="opacity" from="0" to="1" begin="LineFive.end" dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="78%" y="288" style="opacity: 0;">
+			Конец
+			<animate attributeName="opacity" from="0" to="1" begin="LineFive.end" dur="0.5s" fill="freeze"/>
+		</text> 
+
+		<rect width="250" height="50" x="47%" y="300" fill="#fff" stroke="#000" style="opacity: 0;">
+			<animate id="rectThree" attributeName="opacity" from="0" to="1" begin="LineThree.end" dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="54%" y="330" style="opacity: 0;">
+			j := i - 1
+			<animate attributeName="opacity" from="0" to="1" begin="LineThree.end" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<line x1="56%" y1="350" x2="56%" y2="400" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineSix" attributeName="y2" begin="rectThree.end" from="350" to="400" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="rectThree.end" dur="0.5s" fill="freeze"/>
+		</line>
+
+		<line x1="56%" y1="400" x2="46%" y2="440" stroke="#000" stroke-width="1" style="opacity: 0;">
+			<animate id="RombTwo" attributeName="y2" begin="LineSix.end" from="400" to="440" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineSix.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<line x1="56%" y1="400" x2="66%" y2="440" stroke="#000" stroke-width="1" style="opacity: 0;">
+			<animate id="RombTwo" attributeName="y2" begin="LineSix.end" from="400" to="440" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineSix.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<line x1="46%" y1="440" x2="56%" y2="480" stroke="#000" stroke-width="1" style="opacity: 0;">
+			<animate id="RombTwo" attributeName="y2" begin="LineSix.end" from="440" to="480" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineSix.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<line x1="66%" y1="440" x2="56%" y2="480" stroke="#000" stroke-width="1" style="opacity: 0;">
+			<animate id="RombTwo" attributeName="y2" begin="LineSix.end" from="440" to="480" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineSix.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<text x="50%" y="445" style="opacity: 0;">
+			j >= 1 and arr[j] > arr[i]
+			<animate attributeName="opacity" from="0" to="1" begin="RombTwo.begin" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<line x1="56%" y1="480" x2="56%" y2="520" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineSeven" attributeName="y2" begin="RombTwo.end" from="480" to="520" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="RombTwo.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<text x="57%" y="505" style="opacity: 0;">
+			true
+			<animate attributeName="opacity" from="0" to="1" begin="LineSeven.begin" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<line x1="66%" y1="440" x2="80%" y2="440" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineEight" attributeName="x2" begin="RombTwo.end" from="66%" to="80%" dur="0.5s"	animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="RombTwo.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<text x="67%" y="430" style="opacity: 0;">
+			false
+			<animate attributeName="opacity" from="0" to="1" begin="LineEight.begin" dur="0.5s" fill="freeze"/>
+		</text>
+		<line x1="80%" y1="440" x2="80%" y2="470" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineNine" attributeName="y2" begin="LineEight.end" from="440" to="470" dur="0.5s" animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineEight.end" dur="0.5s" fill="freeze"/>
+		</line>
+
+		<rect width="250" height="50" x="70%" y="470" fill="#fff" stroke="#000" style="opacity: 0;">
+			<animate id="rectFour" attributeName="opacity" from="0" to="1" begin="LineNine.end" dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="74%" y="500" style="opacity: 0;">
+			arr[j + 1] := arr[i - 1]
+			<animate attributeName="opacity" from="0" to="1" begin="rectFour.begin" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<line x1="80%" y1="520" x2="80%" y2="550" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineTen" attributeName="y2" begin="rectFour.end" from="520" to="550" dur="0.5s" animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="rectFour.end" dur="0.5s" fill="freeze"/>
+		</line>
+
+		<rect width="250" height="50" x="70%" y="550" fill="#fff" stroke="#000" style="opacity: 0;">
+			<animate id="rectFive" attributeName="opacity" from="0" to="1" begin="LineTen.end" dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="77%" y="580" style="opacity: 0;">
+			i := i + 1
+			<animate attributeName="opacity" from="0" to="1" begin="rectFive.begin" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<rect width="250" height="50" x="47%" y="520" fill="#fff" stroke="#000" style="opacity: 0;">
+			<animate id="rectSix" attributeName="opacity" from="0" to="1" begin="LineSeven.end" dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="52%" y="550" style="opacity: 0;">
+			arr[j + 1] := arr[j]
+			<animate attributeName="opacity" from="0" to="1" begin="rectSix.begin" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<line x1="56%" y1="570" x2="56%" y2="600" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineEleven" attributeName="y2" begin="rectSix.end" from="570" to="600" dur="0.5s" animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="rectSix.end" dur="0.5s" fill="freeze"/>
+		</line>
+
+		<rect width="250" height="50" x="47%" y="600" fill="#fff" stroke="#000" style="opacity: 0;">
+			<animate id="rectSeven" attributeName="opacity" from="0" to="1" begin="LineEleven.end" dur="0.5s" fill="freeze"/>
+		</rect>
+		<text x="54%" y="630" style="opacity: 0;">
+			j := j - 1
+			<animate attributeName="opacity" from="0" to="1" begin="rectSeven.begin" dur="0.5s" fill="freeze"/>
+		</text>
+
+		<line x1="56%" y1="650" x2="56%" y2="680" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineTwelve" attributeName="y2" begin="rectSeven.end" from="650" to="680" dur="0.5s" animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="rectSeven.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<line x1="42%" y1="680" x2="56%" y2="680" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineThirteen" attributeName="x1" begin="LineTwelve.end" from="56%" to="42%" dur="0.5s" animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineTwelve.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<line x1="42%" y1="380" x2="42%" y2="680" stroke="#000" stroke-width="2" style="opacity: 0;">
+			<animate id="LineFourteen" attributeName="y1" begin="LineThirteen.end" from="680" to="380" dur="0.5s" animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineThirteen.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<line x1="42%" y1="380" x2="55%" y2="380" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)" style="opacity: 0;">
+			<animate id="LineFifteen" attributeName="x2" begin="LineFourteen.end" from="42%" to="55%" dur="0.5s" animation-timing-function="ease-out"/>
+			<animate attributeName="opacity" from="0" to="1" begin="LineFourteen.end" dur="0.5s" fill="freeze"/>
+		</line>
+		<defs>
+		    <marker id="arrowhead" markerWidth="6" markerHeight="7" 
+		    refX="0" refY="4" orient="auto">
+		        <polygon points="0 0, 6 4, 0 7" />
+		    </marker>
+		</defs>
 	 
-	<g>
-	  	<rect fill="#fff" id="canvas_background" height="600" width="100%" y="-1" x="-1"/>
-	  	<g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-	   		<rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
-	  	</g>
-	</g>
-	
-	<g> 
-		<ellipse id="circle1" stroke="#000" ry="119.5" rx="123.5" id="svg_6" cy="193.5" cx="298" fill-opacity="null" stroke-opacity="null" stroke-width="3" fill="#fff"/>
-		<ellipse id="circle1" stroke="#000" ry="87" rx="93.00001" id="svg_9" cy="197" cx="300.5" fill-opacity="null" stroke-opacity="null" stroke-width="3" fill="none"/>
-	 </g>
-	 
-	</svg> -->
+	</svg>
 </body>
 </html>
